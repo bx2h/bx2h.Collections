@@ -1,6 +1,6 @@
 # bx2h.Collections
 
-A collection of useful extensions to Unity native collections
+A collection of useful extensions to Unity native collections.
 
 ## Installation
 
