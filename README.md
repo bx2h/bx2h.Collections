@@ -2,6 +2,10 @@
 
 A collection of useful extensions to Unity native collections
 
+## Installation
+
+From Unity Package Manager - Install package from git URL: `https://github.com/bx2h/bx2h.Collections.git`
+
 ## NativeArrayExtensions
 
 NativeArrayExtensions.Reverse - reverses the native array in place.
