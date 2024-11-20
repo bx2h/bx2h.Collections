@@ -1,9 +1,11 @@
 {
-    "name": "bx2h.Collections.Tests",
-    "rootNamespace": "bx2h.Collections.Tests",
+    "name": "bx2h.Collections.Editor.Tests",
+    "rootNamespace": "",
     "references": [
-        "GUID:e0cd26848372d4e5c891c569017e11f1",
-        "GUID:41d670d285ff84e209f11cee0535423e"
+        "Unity.Collections",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "bx2h.Collections"
     ],
     "includePlatforms": [
         "Editor"
