@@ -1,9 +1,11 @@
 {
-  "name": "bx2h.collections",
-  "version": "1.0.0",
-  "displayName": "bx2h.Collections",
-  "dependencies": {
-    "com.unity.collections": "2.5.1",
-    "com.unity.burst": "1.8.18"
-  }
+   "name": "bx2h.collections",
+   "author": "bx2h",
+   "description": "A collection of useful extensions for Unity's Collections package.",
+   "version": "1.0.0",
+   "displayName": "bx2h.Collections",
+   "dependencies": {
+      "com.unity.collections": "2.5.1",
+      "com.unity.burst": "1.8.18"
+   }
 }
